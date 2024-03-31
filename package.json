@@ -1,7 +1,7 @@
 {
     "name": "pierokhandler",
     "version": "14.9.0",
-    "description": "Discord.js v14 command handler",
+    "description": "Discord.js v14 command framework",
     "main": "src/dist/index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,8 @@
       "Handler",
       "discord.js"
     ],
+    "repository": {
+		"url": "https://github.com/pierokchad/pierokhandler"
     "author": "pierok",
     "license": "MIT",
     "homepage": ""
