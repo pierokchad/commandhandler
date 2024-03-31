@@ -16,6 +16,7 @@ npm i pierokhandler
 ```js
 const { Command } = require('pierokhandler')
 ```
+in your terminal
 
 <bt></br>
 
