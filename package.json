@@ -1,0 +1,18 @@
+{
+    "name": "pierokhandler",
+    "version": "14.9.0",
+    "description": "Discord.js v14 command handler",
+    "main": "src/dist/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "CommandHandler",
+      "Command",
+      "Handler",
+      "discord.js"
+    ],
+    "author": "pierok",
+    "license": "MIT",
+    "homepage": ""
+  }
