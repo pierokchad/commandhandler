@@ -7,7 +7,7 @@
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "url": "https://github.com/pierokchad/pierokhamdler"
+      "url": "https://github.com/pierokchad/pierokhandler"
     },
     "keywords": [
       "CommandHandler",
@@ -17,5 +17,5 @@
     ],
     "author": "pierok",
     "license": "MIT",
-    "homepage": "https://github.com/pierokchad/pierokhamdler"
+    "homepage": "https://github.com/pierokchad/pierokhandler"
   }
