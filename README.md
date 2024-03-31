@@ -1,6 +1,6 @@
 ## 📚 Discord.js v14 command framework
 
-This is a simple and unique package just makes created commands a whole lot easier and the file look cleaner.
+> This is a simple and unique package which makes creating commands a whole lot easier and (...)
 
 ### 🚀 Installation
 
@@ -41,10 +41,10 @@ module.exports = new Command({
 });
 ```
 
-### 🎲 Bugs
+### 🔧 Bugs
 
-If you encounter any bugs feel free to dm me, [email](mailto:pierok420@gmail.com) or [discord](https://discord.com/users/577571414186393661/).
+> If you encounter any bugs feel free to dm me, [email](mailto:pierok420@gmail.com) or [discord](https://discord.com/users/577571414186393661/).
 
 ### 🎲 Contributions
 
-You can [contribute](./docs/CONTRIBUTING.md) if you want.
+> You can [contribute](./docs/CONTRIBUTING.md) if you want.
