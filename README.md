@@ -43,8 +43,8 @@ module.exports = new Command({
 
 ### 🔧 Bugs
 
-> If you have any bugs, please submit them [here]().
+> If you have any bugs, please submit them [here](https://github.com/pierokchad/pierokhandler/issues).
 
 ### 🎲 Contributions
 
-> You can [contribute](./docs/CONTRIBUTING.md) if you want.
+> You can [contribute](github.com/pierokchad/pierokhandler/docs/CONTRIBUTING.md) if you want.
