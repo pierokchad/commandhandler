@@ -1,6 +1,6 @@
 {
     "name": "pierokhandler",
-    "version": "14.9.0",
+    "version": "14.14.1",
     "description": "Discord.js v14 command framework",
     "main": "src/dist/index.js",
     "scripts": {
