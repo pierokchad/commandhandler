@@ -43,7 +43,7 @@ module.exports = new Command({
 
 ### 🔧 Bugs
 
-> If you encounter any bugs feel free to message me on, [email](mailto:pierok420@gmail.com) or [discord](https://discord.com/users/577571414186393661/).
+> If you have any bugs, please submit them [here]().
 
 ### 🎲 Contributions
 
