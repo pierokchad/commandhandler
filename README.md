@@ -4,17 +4,27 @@
 
 ### 🚀 Installation
 
-**1**. Within your bot's directory run
+**1**. Install package:
 
 ```bash
-npm i @vertcode/pierokhandler
+# npm
+npm install @pierok/commandhandler
+
+# yarn
+yarn add @pierok/commandhandler
+
+# pnpm
+pnpm install @pierok/commandhandler
+
+# bun
+bun install @pierok/commandhandler
 ```
 
 <bt></br>
-**2**. In your command file, require the following
+**2**. In your command file, require the following:
 
 ```js
-const { Command } = require('@vertcode/pierokhandler')
+const { Command } = require('@pierok/commandhandler')
 ```
 
 <bt></br>
@@ -22,7 +32,7 @@ const { Command } = require('@vertcode/pierokhandler')
 ### 📑 Code example
 
 ```js
-const { Command } = require('@vertcode/pierokhandler');
+const { Command } = require('@pierok/commandhandler');
 const discord = require('discord.js');
 
 module.exports = new Command({
@@ -43,8 +53,8 @@ module.exports = new Command({
 
 ### 🔧 Bugs
 
-> If you have any bugs, please submit them [here](https://github.com/pierokchad/pierokhandler/issues).
+> If you have any bugs, please submit them [here](https://github.com/pierokchad/commandhandler/issues).
 
 ### 🎲 Contributions
 
-> You can [contribute](https://github.com/pierokchad/pierokhandler/tree/main/docs/CONTRIBUTING.md) if you want.
+> You can [contribute](https://github.com/pierokchad/commandhandler/tree/main/docs/CONTRIBUTING.md) if you want.
