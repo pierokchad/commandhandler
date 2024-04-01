@@ -7,14 +7,14 @@
 **1**. Within your bot's directory run
 
 ```bash
-npm i pierokhandler
+npm i @vertcode/pierokhandler
 ```
 
 <bt></br>
 **2**. In your command file, require the following
 
 ```js
-const { Command } = require('pierokhandler')
+const { Command } = require('@vertcode/pierokhandler')
 ```
 
 <bt></br>
@@ -22,7 +22,7 @@ const { Command } = require('pierokhandler')
 ### 📑 Code example
 
 ```js
-const { Command } = require('pierokhandler');
+const { Command } = require('@vertcode/pierokhandler');
 const discord = require('discord.js');
 
 module.exports = new Command({
