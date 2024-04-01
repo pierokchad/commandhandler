@@ -1,21 +1,25 @@
 {
-    "name": "pierokhandler",
-    "version": "14.14.1",
-    "description": "Discord.js v14 command framework",
-    "main": "src/dist/index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "url": "https://github.com/pierokchad/pierokhandler"
-    },
-    "keywords": [
-      "CommandHandler",
-      "Command",
-      "Handler",
-      "discord.js"
-    ],
-    "author": "pierok",
-    "license": "MIT",
-    "homepage": "https://github.com/pierokchad/pierokhandler"
-  }
+  "name": "commandhandler",
+  "version": "14.14.1",
+  "description": "Discord.js v14 command handler",
+  "main": "src/dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierokchad/commandhandler.git"
+  },
+  "keywords": [
+    "discord.js",
+    "CommandHandler",
+    "command",
+    "handler"
+  ],
+  "author": "pierok <contact@vertcode.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pierokchad/commandhandler/issues"
+  },
+  "homepage": "https://github.com/pierokchad/commandhandler"
+}
