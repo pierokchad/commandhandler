@@ -47,4 +47,4 @@ module.exports = new Command({
 
 ### 🎲 Contributions
 
-> You can [contribute](https://github.com/pierokchad/pierokhandler/docs/CONTRIBUTING.md) if you want.
+> You can [contribute](https://github.com/pierokchad/pierokhandler/tree/main/docs/CONTRIBUTING.md) if you want.
