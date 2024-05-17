@@ -10,14 +10,11 @@
 # npm
 npm install @pierok/commandhandler
 
-# yarn (soon)
+# yarn
 yarn add @pierok/commandhandler
 
-# pnpm (soon)
+# pnpm
 pnpm install @pierok/commandhandler
-
-# bun (soon)
-bun install @pierok/commandhandler
 ```
 
 <bt></br>
