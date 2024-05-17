@@ -16,7 +16,7 @@
     "command",
     "handler"
   ],
-  "author": "pierok <contact@vertcode.pl>",
+  "author": "pierok",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pierokchad/commandhandler/issues"
