@@ -10,13 +10,13 @@
 # npm
 npm install @pierok/commandhandler
 
-# yarn
+# yarn (soon)
 yarn add @pierok/commandhandler
 
-# pnpm
+# pnpm (soon)
 pnpm install @pierok/commandhandler
 
-# bun
+# bun (soon)
 bun install @pierok/commandhandler
 ```
 
