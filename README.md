@@ -26,7 +26,7 @@ const { Command } = require('@pierok/commandhandler')
 
 <bt></br>
 
-### 📑 Code example
+### 📑 Example code - command format
 
 ```js
 const { Command } = require('@pierok/commandhandler');
@@ -47,6 +47,44 @@ module.exports = new Command({
     },
 });
 ```
+
+### 📑 Example code - subcommand format
+
+```js
+const { Command } = require('@pierok/commandhandler');
+const discord = require('discord.js');
+
+module.exports = new Command({
+    name: "",
+    description: "",
+    type: discord.ApplicationCommandType.ChatInput,
+    options: [
+        {
+            name: "",
+            description: "",
+            type: discord.ApplicationCommandOptionType.Subcommand,
+            options: [
+                {
+                    name: "",
+                    description: "",
+                    type: discord.ApplicationCommandOptionType.String,
+                    required: true
+                }
+            ]
+        }
+    ],
+
+    /**
+     * @param {discord.Client} client
+     * @param {discord.CommandInteraction} interaction
+     */
+
+    async execute(client, interaction) {
+
+    },
+});
+```
+**NOTE:** *Execute can be replaced with run if that is how you run your commands however, support will not be given if so.*
 
 ### 🔧 Bugs
 
