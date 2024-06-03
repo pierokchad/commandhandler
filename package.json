@@ -1,6 +1,6 @@
 {
   "name": "@pierok/commandhandler",
-  "version": "14.15.2",
+  "version": "14.15.3",
   "description": "This is a simple and unique package which makes creating commands a whole lot easier and make the code look cleaner.",
   "main": "src/dist/index.js",
   "scripts": {
@@ -22,5 +22,4 @@
     "url": "https://github.com/pierokchad/commandhandler/issues"
   },
   "homepage": "https://github.com/pierokchad/commandhandler",
-  "private": false
 }
