@@ -1,0 +1,83 @@
+{
+  "name": "@pierok/commandhandler",
+  "version": "14.15.3",
+  "description": "This is a simple and unique package which makes creating commands using .js and .ts a whole lot easier and make the code look cleaner.",
+  "main": "dist/structures/index.js",
+  "types": "types/structures/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pierokchad/commandhandler.git"
+  },
+"keywords": [
+  "discord.js",
+  "CommandHandler",
+  "command",
+  "handler",
+  "js",
+  "ts",
+  "discordbots",
+  "framework",
+  "nodejs",
+  "type-safe",
+  "bots",
+  "automation",
+  "discordcommands",
+  "devtools",
+  "plugin",
+  "commandapi",
+  "developer",
+  "community",
+  "discord",
+  "discordframework",
+  "botdevelopment",
+  "node",
+  "npm",
+  "package",
+  "cli",
+  "application",
+  "app",
+  "integration",
+  "middleware",
+  "utilities",
+  "library",
+  "api",
+  "eventhandler",
+  "event",
+  "commandline",
+  "commandframework",
+  "interactions",
+  "slashcommands",
+  "interactionhandler",
+  "modular",
+  "codebase",
+  "ecosystem",
+  "discordjsv14",
+  "typescript",
+  "javascript",
+  "npmjs",
+  "open-source",
+  "github",
+  "collaboration",
+  "contribution"
+  ],
+  "author": "pierok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pierokchad/commandhandler/issues"
+  },
+  "homepage": "https://github.com/pierokchad/commandhandler",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
