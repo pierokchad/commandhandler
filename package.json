@@ -1,6 +1,6 @@
 {
   "name": "@pierok/commandhandler",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is a simple and unique package which makes creating commands using .js and .ts a whole lot easier and make the code look cleaner.",
   "main": "dist/structures/index.js",
   "types": "types/structures/index.d.ts",
