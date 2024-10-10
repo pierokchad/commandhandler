@@ -1,4 +1,4 @@
-## 📚 Discord.js v14 command framework
+## ✨ Discord.js v14 command framework
 
 >This is a simple and unique package which makes creating commands using .js and .ts a whole lot easier and make the code look cleaner.
 
