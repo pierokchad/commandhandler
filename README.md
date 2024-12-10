@@ -2,7 +2,7 @@
 
 >This is a simple and unique package which makes creating commands using .js and .ts a whole lot easier and make the code look cleaner.
 
-> [!WARNING]
+> [!CAUTION]
 > Some features may not work properly as the project is no longer actively maintained.
 
 ### 🚀 Installation
