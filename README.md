@@ -155,10 +155,8 @@ const commandOptions: CommandOptions = {
 export default new Command(commandOptions);
 ```
 
-### 🔧 Bugs
-
+> [!NOTE]
 > If you have any bugs, please submit them [here](https://github.com/pierokchad/commandhandler/issues).
 
-### 🎲 Contributions
-
+> [!NOTE]
 > You can [contribute](https://github.com/pierokchad/commandhandler/tree/main/docs/CONTRIBUTING.md) if you want.
